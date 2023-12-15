@@ -1,0 +1,21 @@
+#footer_main{
+    display: flex;
+    flex-direction: column;
+    background-color: black;
+    color: white;
+}
+#footer_c1{
+    display: flex;
+    justify-content: space-evenly;
+}
+#footer_c2{
+    display: flex;
+    justify-content: space-evenly;
+    gap: 20x;
+}
+.footer_subContaine{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}

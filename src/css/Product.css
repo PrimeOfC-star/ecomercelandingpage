@@ -1,0 +1,23 @@
+#product_main {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin-top: 20px
+}
+#box{
+    border: solid black 1px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#image_div{
+    height: 190px;
+    width: 250px;
+    display: flex;
+    flex-wrap: wrap;
+}
+#img_tag{
+    height: 190px; 
+    width: 250px
+}

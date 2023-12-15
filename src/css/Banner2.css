@@ -1,0 +1,52 @@
+#Banner_M_c3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    margin-top: 10px
+}
+#Banner_c3_1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 150px;
+    width: 250px;
+    background-color: antiquewhite;
+}
+#Banner_c3_2{
+    display: flex;
+    flex-direction: column;
+    height: 150px;
+    width: 250px;
+    background-color: antiquewhite;
+    gap: 10px;
+}
+#Banner_c3_3{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 150px;
+    width: 250px;
+    background-color: antiquewhite;
+}
+#Banner_c3_2_1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    height: 50px;
+    width: 250px;
+    background-color: rgb(183, 110, 13); 
+}
+#Banner_c3_2_2{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    width: 250px;
+    background-color: rgb(183, 110, 13); 
+}
